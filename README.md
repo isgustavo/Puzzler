@@ -15,8 +15,7 @@ The Puzzler is a mobile VR mini game for everyone who likes VR entertainment and
 
 # Outcomes
 
-<a href="https://youtu.be/_33Enn6uwA0" target="_blank"><img src="https://i.ytimg.com/vi/_33Enn6uwA0/1.jpg" 
-alt="Game Play" width="800" height="600" border="10" /></a>
+[Game play video](https://youtu.be/_33Enn6uwA0)
 
 # Design Process
 
